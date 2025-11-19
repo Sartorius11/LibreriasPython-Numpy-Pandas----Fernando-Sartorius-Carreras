@@ -42,9 +42,9 @@ plt.show()
 # df = pd.DataFrame(
 #     {
 #         "Nombre": [
-#             "FerNa", "Bulis", "Borja", "Luis", "Edu", "JuanAn", "JuanMichu",
-#             "Jacobo", "JorgeG.", "Santi", "Junior", "Maier", "Nico",
-#             "PabloRos", "PedroAsenj.", "FerSar"
+#             "xxx", "yyyy", "", "Luis", "Eduuss", "Juan2", "Juan",
+#             "Jacobo", "Jorge.", "Santi", "sernior", "Prito", "Nico",
+#             "Pablo", "Pedro.", "Alvaro"
 #         ],
 #         "Age": [
 #             26, 25, 26, 25, 24, 25, 25, 25, 25, 26, 24, 24, 25, 26, 26,25
